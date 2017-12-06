@@ -12,15 +12,24 @@ nav {
 }
 
 h1 {
-  font-size: 2.5em;
+  margin-top: 25px;
+  font-size: 3em;
+  line-height: normal;
 }
 
 h3 {
+  margin-top: 20px;
   font-size: 1.5em;
+  line-height: 1em;
 }
 
-p {
-  line-height: 21px;
+.author {
+  margin-top: 10px;
+}
+
+.story-text {
+  margin-top: 25px;
+  line-height: 22px;
 }
 
 .logo {
